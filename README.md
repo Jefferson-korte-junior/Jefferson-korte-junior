@@ -8,7 +8,7 @@
 </a>
 
 ### Languages and Tools I use:
-<img src="https://skillicons.dev/icons?i=c,java,python,JavaScript,vscode,git&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,vscode,git&perline=10" />
 
 ### To reach me:
 
