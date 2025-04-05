@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37a6ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jefferson+korte!;Atualmente+estou+no+meu+primeiro+ano+de+CC;Sinta-se+á+vontade+para+explorar+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37a6ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jefferson+korte!;Atualmente+estou+no+meu+segundo+ano+de+CC;Sinta-se+á+vontade+para+explorar+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 ### Languages and Tools I use:
