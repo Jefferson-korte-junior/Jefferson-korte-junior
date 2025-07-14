@@ -11,19 +11,33 @@
   <a href="https://www.linkedin.com/in/jefferson-korte-baa2182b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- ### Sobre mim:
-- Sou de Santa helena - PR.
-- Estou cursando ciencia da computação na UTFPR.
+# 👋 Sobre mim
 
-- ### Skills:
-- Proficiencia em C, Java e Python.
-- Solido conhecimento em matematica, e estou estudando agora Machine Learning.
-- Maior experiencia em desenvolvimento em C.
+Sou estudante de Ciência da Computação na UTFPR – Santa Helena (PR) e apaixonado por tecnologia, algoritmos e soluções baseadas em dados.  
+Tenho experiência em projetos acadêmicos com desenvolvimento em **C, Java, Python** e front-end com **HTML, CSS e JavaScript**.
 
-- ###  Academic Projects
-- Desenvolvi um projeto totalmente em C, para controle de estoque de produtos.
+Atualmente estou focado em **Ciência de Dados e Machine Learning**, desenvolvendo projetos próprios e estudando frameworks e bibliotecas como **Pandas, Matplotlib, Scikit-Learn** e **Apache Airflow**.
 
-- ###  Interests and Specializations
-- Estou estudando no laboratorio da faculdade Machine Learning, e pretendo me especializar nessa area de IA.
+---
+
+## 🚀 Principais Skills
+- Linguagens: **Python**, **C**, **Java**, **SQL**, **JavaScript**
+- Ferramentas: **Git**, **VS Code**, **MySQL**, **Airflow**
+- Análise de Dados: **Pandas**, **Matplotlib**, **Scikit-learn**
+- Web: **HTML**, **CSS**, **JavaScript**
+- Conceitos: Estrutura de dados, lógica de programação, algoritmos, ETL
+
+---
+
+## 🎓 Projetos acadêmicos e pessoais
+- Sistema de controle de estoque com interface gráfica (Java + Swing)
+- Jogo educacional sobre circuitos lógicos (Godot + GDScript)
+- Pipeline de dados com Airflow e análise de dados públicos (Python)
+- Simulador de sistema de arquivos (C)
+- Dashboards e scripts de análise com Python + Pandas
+
+Explore meus repositórios abaixo! 👇
+
+---
   
 
