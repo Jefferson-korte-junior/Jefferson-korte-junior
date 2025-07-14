@@ -20,7 +20,7 @@ Atualmente estou focado em **Ciência de Dados e Machine Learning**, desenvolven
 
 ---
 
-## 🚀 Principais Skills
+## Principais Skills
 - Linguagens: **Python**, **C**, **Java**, **SQL**, **JavaScript**
 - Ferramentas: **Git**, **VS Code**, **MySQL**, **Airflow**
 - Análise de Dados: **Pandas**, **Matplotlib**, **Scikit-learn**
@@ -29,7 +29,7 @@ Atualmente estou focado em **Ciência de Dados e Machine Learning**, desenvolven
 
 ---
 
-## 🎓 Projetos acadêmicos e pessoais
+## Projetos acadêmicos e pessoais
 - Sistema de controle de estoque com interface gráfica (Java + Swing)
 - Jogo educacional sobre circuitos lógicos (Godot + GDScript)
 - Pipeline de dados com Airflow e análise de dados públicos (Python)
