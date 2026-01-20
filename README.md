@@ -29,7 +29,8 @@ Atualmente, estou aprofundando meus estudos em:
 - **Pandas**
 - **Matplotlib**
 - **Scikit-learn**
-- **TensorFlow / Keras**
+- **TensorFlow / Keras **
+- **PyTorch**
 - Conceitos de **ETL** e pipelines de dados
 
 ### Ferramentas e Outros
