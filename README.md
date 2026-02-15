@@ -1,18 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37a6ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jefferson+Korte!;Estudante+de+Ciência+da+Computação+na+UTFPR;Focado+em+Ciência+de+Dados+e+Machine+Learning;Sinta-se+à+vontade+para+explorar+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37a6ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jefferson+Korte!;Estudante+de+Ciência+da+Computação+na+UTFPR;Focado+em+Dados,+Machine+Learning+e+Desenvolvimento;Sinta-se+à+vontade+para+explorar+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação** na **UTFPR – Campus Santa Helena (PR)**, atualmente no segundo ano da graduação.  
-Tenho grande interesse em **Ciência de Dados, Machine Learning e Engenharia de Dados**, áreas nas quais venho desenvolvendo projetos acadêmicos e práticos.
+Sou estudante de **Ciência da Computação** na **UTFPR – Campus Santa Helena (PR)**.  
+Tenho interesse em **Ciência de Dados, Machine Learning, Analise de dados, Engenharia de Dados** e também em **desenvolvimento de software**, buscando sempre unir análise de dados com soluções práticas.
 
-Possuo experiência com programação em **Python, C e Java**, além de conhecimentos em **análise de dados, pipelines de dados e aprendizado de máquina**, sempre buscando aplicar a teoria em problemas reais.
+Atuo como bolsista em um **projeto de Iniciação Científica**, no qual trabalho no desenvolvimento de uma aplicação **multiplataforma**, envolvendo **front-end em React** e **back-end em Python**. Essa experiência tem sido fundamental para desenvolver visão de produto, organização de código e trabalho em equipe.
+
+Possuo experiência com programação em **Python, javaScript,  C,**, além de conhecimentos em **análise de dados, pipelines de dados e aprendizado de máquina**, sempre aplicando a teoria em problemas reais.
 
 Atualmente, estou aprofundando meus estudos em:
-- Machine Learning e Deep Learning
-- Análise e visualização de dados
-- Orquestração de pipelines com Apache Airflow
+- Ciência de Dados e Machine Learning  
+- Análise e visualização de dados  
+- Desenvolvimento back-end com Python  
+- Orquestração de pipelines com Apache Airflow  
 
 ---
 
@@ -33,7 +36,8 @@ Atualmente, estou aprofundando meus estudos em:
 - **PyTorch**
 - Conceitos de **ETL** e pipelines de dados
 
-### Ferramentas e Outros
+### Desenvolvimento & Ferramentas
+- **React**
 - **Git & GitHub**
 - **VS Code**
 - **MySQL**
@@ -43,20 +47,22 @@ Atualmente, estou aprofundando meus estudos em:
 ---
 
 ## Projetos Acadêmicos e Pessoais
-Alguns projetos que você encontrará neste perfil:
 
-- Classificação de dados clínicos utilizando Redes Neurais
-- Identificação de imagens com CNN (Visão Computacional)
-- Pipelines de dados orquestrados com Apache Airflow
-- Análises e visualizações de dados públicos com Python
+Neste perfil você encontrará projetos relacionados a:
+
+- Análise e visualização de dados com Python  
+- Modelos de Machine Learning e Deep Learning  
+- Aplicações com back-end em Python  
+- Desenvolvimento front-end com React  
+- Pipelines de dados orquestrados com Apache Airflow  
 - Projetos acadêmicos em C e Java (estruturas de dados e sistemas)
 
-Projetos mais completos possuem **repositórios dedicados e documentação detalhada**.
+Os projetos mais completos possuem **repositórios dedicados e documentação**.
 
 ---
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,git,vscode,mysql&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,react,git,vscode,mysql&perline=10" />
 
 ---
 
@@ -73,4 +79,4 @@ Projetos mais completos possuem **repositórios dedicados e documentação detal
 
 ---
 
-Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de dados!
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de tecnologia e dados!
